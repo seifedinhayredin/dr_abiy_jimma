@@ -43,7 +43,7 @@ export default function Home() {
 
           <div className="relative h-64 sm:h-80 md:h-[420px]">
             <Image
-              src="/OIP.jfif"
+              src="/doc.png"
               alt="Dr. Abiy in clinic"
               fill
               priority
@@ -122,13 +122,13 @@ export default function Home() {
         },
         {
           name: "Michael G.",
-          image: "/testimonial2.jpg",
+          image: "/testimonial1.jpg",
           feedback:
             "Excellent experience! I felt heard and cared for during my consultation.",
         },
         {
           name: "Alem K.",
-          image: "/testimonial3.jpg",
+          image: "/testimonial1.jpg",
           feedback:
             "Professional, compassionate, and knowledgeable. The best physician I’ve seen.",
         },
