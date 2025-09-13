@@ -60,12 +60,7 @@ export default function Header() {
 
         {/* Actions (desktop) */}
         <div className="hidden md:flex items-center gap-3">
-          <a
-            href="#contact"
-            className="rounded-xl border px-4 py-2 text-sm hover:bg-slate-50"
-          >
-            Contact
-          </a>
+          
           <a
             href="#contact"
             className="rounded-xl bg-emerald-600 px-4 py-2 text-sm font-medium text-white hover:bg-emerald-700"
